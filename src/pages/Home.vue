@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="title">
+    <div class="text-center">
       <h1>{{msg}}</h1>
     </div>
   </div>

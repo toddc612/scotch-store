@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="collapse navbar-collapse">
         <ul class="navbar-nav">
           <li class="nav-link"><router-link to="/">Home</router-link></li>
           <li class="nav-link"><router-link to="/admin">Admin</router-link></li>
